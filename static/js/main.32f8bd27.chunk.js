@@ -1,0 +1,2 @@
+(this["webpackJsonpnovaco-dev"]=this["webpackJsonpnovaco-dev"]||[]).push([[0],{10:function(e,c,n){"use strict";n.r(c);var t=n(1),r=n.n(t),s=n(3),a=n.n(s),o=(n(8),n(0));var d=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("header",{className:"App-header",children:Object(o.jsx)("h1",{children:"novaco.dev"})})})};a.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))},8:function(e,c,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.32f8bd27.chunk.js.map
