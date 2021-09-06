@@ -11,7 +11,7 @@
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "plugin:prettier/recommended"
   ],
-  "parser": "@typescript-eslint/parser",
+  "parser": "babel-eslint",
   "parserOptions": {
     "project": ["./tsconfig.json"],
     "ecmaFeatures": {
@@ -28,5 +28,12 @@
     "semi": ["error", "always"],
     "prettier/prettier": "error",
     "@typescript-eslint/no-empty-function": "warn"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "moduleDirectory": ["node_modules", "src/"]
+      }
+    }
   }
 }
