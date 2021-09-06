@@ -1,2 +1,0 @@
-(this["webpackJsonpnovaco-dev"]=this["webpackJsonpnovaco-dev"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(1);var c=t(3),o=t.n(c),s=(t(8),t(0)),r=function(){return Object(s.jsxs)(s.Fragment,{children:[Object(s.jsx)("h1",{children:"novaco.dev"}),Object(s.jsx)("p",{children:"website is under development"})]})};o.a.render(Object(s.jsx)(r,{}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.45037c80.chunk.js.map
