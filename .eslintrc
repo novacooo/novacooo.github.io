@@ -28,18 +28,5 @@
     "semi": ["error", "always"],
     "prettier/prettier": "error",
     "@typescript-eslint/no-empty-function": "warn"
-  },
-  "settings": {
-    "react": {
-      "version": "detect"
-    },
-    "import/resolver": {
-      "node": {
-        "paths": ["src"],
-        "alias": {
-          "@views": "./src/views"
-        }
-      }
-    }
   }
 }
