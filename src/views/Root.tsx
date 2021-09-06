@@ -15,6 +15,7 @@ const Root = (): JSX.Element => (
     <div>
       <h1>novaco.dev</h1>
       <p>website is under development</p>
+      <p>kontakt@novaco.dev</p>
     </div>
   </>
 );
