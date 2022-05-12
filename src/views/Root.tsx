@@ -47,9 +47,8 @@ const Root = (): JSX.Element => (
     <Container>
       <Header>novaco.dev</Header>
       <Paragraph>website is under development</Paragraph>
-      <Paragraph>kontakt@novaco.dev</Paragraph>
-      <Link href="/react-todo-app">react-todo-app -&gt;</Link>
-      <Link href="/study-buddy">study-buddy -&gt;</Link>
+      <Paragraph>jaceknowak.kontakt@gmail.com</Paragraph>
+      <Link href="https://github.com/novacooo">my github -&gt;</Link>
     </Container>
   </>
 );
