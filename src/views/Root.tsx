@@ -49,6 +49,7 @@ const Root = (): JSX.Element => (
       <Paragraph>website is under development</Paragraph>
       <Paragraph>jaceknowak.kontakt@gmail.com</Paragraph>
       <Link href="https://github.com/novacooo">my github -&gt;</Link>
+      <Link href="https://novaco.dev/wordcloud-game">wordcloud-game -&gt;</Link>
     </Container>
   </>
 );
